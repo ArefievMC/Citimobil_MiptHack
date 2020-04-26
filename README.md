@@ -1,5 +1,5 @@
 ## Citimobil_MiptHack
-Solution for https://www.kaggle.com/c/final-etarta/leaderboard
+2 place solution for https://www.kaggle.com/c/final-etarta/leaderboard
 ## Solution
 - LightGBM
 - New Target
